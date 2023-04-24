@@ -1,0 +1,19 @@
+{
+  "name": "ma-parser",
+  "version": "1.0.0",
+  "description": "a MA码（IDcode）-barcode parser",
+  "main": "BarcodeParser.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "MA",
+    "barcode"
+  ],
+  "author": "sungole",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^10.2.0",
+    "moment": "^2.29.4"
+  }
+}
