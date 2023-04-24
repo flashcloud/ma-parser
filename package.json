@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "a MA码（IDcode）-barcode parser",
   "main": "BarcodeParser.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flashcloud/ma-parser.git"
+  },
   "scripts": {
     "test": "mocha"
   },
