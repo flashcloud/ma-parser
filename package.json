@@ -1,6 +1,6 @@
 {
   "name": "ma-parser",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a MA码（IDcode）-barcode parser",
   "main": "BarcodeParser.js",
   "repository": {
